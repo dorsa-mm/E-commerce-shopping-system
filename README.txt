@@ -1,5 +1,4 @@
 Name: Dorsa Malekahmadi
-Student ID: 501099909
 
 -----------------------
 Project overview: 
