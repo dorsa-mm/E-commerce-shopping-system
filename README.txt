@@ -11,8 +11,7 @@ Through ECommerceUserInterface.java, the user can type in each action work (eg. 
 the action is programmed to do. ECommerceSystem is the bulk of the project, and other .java files are classes that help the system run. 
 
 -----------------------
-*ACTIONS*
-Actions:
+ACTIONS:
 1. PRODS
 2. BOOKS
 3. CUSTS
@@ -34,13 +33,9 @@ Actions:
 *OTHER*
 19. Extra information
 
-NOTES:
-ERROR: below some actions explain errors the action could give that makes the system more accurate. 
-
 -----------------------
 
-*ACTIONS EXPLAINED*
-(note: action words are not case sensitive, for the purposes of explaining, we will use uppercase letters)
+ACTIONS EXPLAINED:
 
 1. PRODS action:
 When user types in PRODS, all products available to be ordered are printed.
@@ -128,9 +123,7 @@ When user types in Q or QUIT, they quit/exit the system.
 18. Typing nothing:
 When user does not type anything (eg. hits Enter), the system continues and user can type something again. 
 
-
-*OTHER*
-19. Extra information:
+19. OTHER:
 Added author and year variables and getter/setter for both to Product.java (not used) and Book.java to be able to do the bonus question. 
 
 Added year to the products that are a Book in ECommerceSystem.java for the bonus question.
